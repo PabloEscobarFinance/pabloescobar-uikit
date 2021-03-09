@@ -2737,14 +2737,14 @@ var templateObject_1;
 var baseColors = {
     failure: "#ED4B9E",
     primary: "#ffffff",
-    primaryBright: "#54030c",
-    primaryDark: "#54030c",
-    secondary: "#54030c",
+    primaryBright: "#104404",
+    primaryDark: "#104404",
+    secondary: "#104404",
     success: "#31D0AA",
-    warning: "#54030c",
+    warning: "#104404",
 };
 var brandColors = {
-    binance: "#54030c",
+    binance: "#104404",
 };
 var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", contrast: "#222222", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#000000", textDisabled: "#BDC2C4", textSubtle: "#1a1a1a", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
