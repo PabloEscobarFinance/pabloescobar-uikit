@@ -120,11 +120,11 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/PabloEscobarFinance",
+        href: "https://t.me/PabloEscobarFi",
       },
       {
         label: "Announcements",
-        href: "https://t.me/PabloEscobarFinanceAnn",
+        href: "https://t.me/PabloEscobarFinance",
       },
       // {
       //   label: "Bahasa Indonesia",
