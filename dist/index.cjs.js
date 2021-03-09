@@ -2093,15 +2093,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/DarthVaderFinance",
+                href: "https://github.com/PabloEscobarFinance",
             },
             {
                 label: "Docs",
-                href: "https://darkvaderfinance.gitbook.io/darthvaderfinance/",
+                href: "https://pabloescobarfinance.gitbook.io/pabloescobarfinance/",
             },
             {
                 label: "Blog",
-                href: "https://darthvaderfinance.medium.com/",
+                href: "https://medium.com/@pabloescobarfinance",
             },
         ],
     },
@@ -2113,11 +2113,11 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/DarthvaderDefii",
+                href: "https://t.me/PabloEscobarFinance",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/DarthvaderDefi",
+                href: "https://t.me/PabloEscobarFinanceAnn",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2168,7 +2168,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/DarthVaderDefi",
+        href: "https://twitter.com/Pabloescobarfi2",
     },
 ];
 var MENU_HEIGHT = 64;
