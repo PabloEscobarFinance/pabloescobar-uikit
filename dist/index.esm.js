@@ -2737,11 +2737,11 @@ var templateObject_1;
 var baseColors = {
     failure: "#ED4B9E",
     primary: "#104404",
-    primaryBright: "#104404",
+    primaryBright: "#808080",
     primaryDark: "#104404",
-    secondary: "#104404",
-    success: "#31D0AA",
-    warning: "#104404",
+    secondary: "#4c7c41",
+    success: "#57b34a",
+    warning: "#645b00",
 };
 var brandColors = {
     binance: "#104404",
