@@ -11,7 +11,7 @@ export const baseColors = {
 };
 
 export const brandColors = {
-  binance: "#104404",
+  binance: "#ababab",
 };
 
 export const lightColors: Colors = {
@@ -43,7 +43,7 @@ export const darkColors: Colors = {
   invertedContrast: "#106727",
   input: "#60865a",
   primaryDark: "#0098A1",
-  tertiary: "#104404",
+  tertiary: "#26771d",
   text: "#e8e6e3",
   textDisabled: "#666171",
   textSubtle: "#c9c4d4",
