@@ -2155,7 +2155,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Pabloescobarfi2",
+        href: "https://twitter.com/PabloEscobarFi",
     },
 ];
 var MENU_HEIGHT = 64;
